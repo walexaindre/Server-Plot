@@ -11,5 +11,10 @@
   },
   "dependencies": {
     "astro": "^3.0.12"
+  },
+  "devDependencies": {
+    "@astrojs/node": "^6.0.0",
+    "@observablehq/plot": "^0.6.10",
+    "canvas": "^2.11.2"
   }
 }
